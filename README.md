@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Joshim
 #### I am a web designer and  developer.
-![I am a web designer and  developer.](https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/268164015_434730544992985_4960209124700006372_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeED_ueR6RL9UMpX0HsW4886N5KYxgGnSW83kpjGAadJbw8ItZOzwi-c8r-nae44EBEUoe3cQxkWGVe7UkuHtFgK&_nc_ohc=e1mCzYWufYIAX_qPLjD&_nc_ht=scontent.fdac134-1.fna&oh=00_AT_RZc8JZS2aK1NAMr-3pviu8UJcolXlUbNqR0ZisATV3w&oe=61CD8E9B)
+![I am a web designer and  developer.](https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/p180x540/270182920_102639705631332_3690813795578559289_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=qGbJi9or9-gAX9JGj7b&_nc_ht=scontent.fdac134-1.fna&oh=00_AT8CeFnkdlAEqUzoD4Tfaume90VNMehfNy92HZ4n22GgMQ&oe=61CD5569)
 
 I have completed diploma degree in CSE. I am a freelancer. I have 2 years of experience in programming.
 
