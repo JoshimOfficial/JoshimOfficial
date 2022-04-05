@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JoshimOfficial](https://github.com/JoshimOfficial)
 
-- 📫 How to reach me **idkhs8211@gmail.com**
+- 📫 How to reach me? **idkhs8211@gmail.com**
 
-- ⚡ Fun fact **I love to eat bugs 😅**
+- ⚡ Fun fact: **I love to eat bugs 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
