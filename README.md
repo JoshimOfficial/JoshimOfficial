@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshim.</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 
-![alt text](https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/277733151_505086541290718_2020801127893682448_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=emMp2AmT_m4AX-MjTHs&_nc_ht=scontent.fdac134-1.fna&oh=00_AT-mKbENnwHYpui3YrXKhik9XUHadBLWgH0dbIK-LVeoMw&oe=6251EC16)
+![alt text](https://www.reshot.com/preview-assets/icons/A8LJPXWZNS/programmer-A8LJPXWZNS.svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshimofficial&label=Profile%20views&color=0e75b6&style=flat" alt="joshimofficial" /> </p>
