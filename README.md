@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshim.</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 
-![alt text](https://www.reshot.com/preview-assets/icons/9HXN25LZVG/programmer-9HXN25LZVG.svg)
+![alt text](https://www.reshot.com/preview-assets/icons/KTE7DHML3J/php-code-KTE7DHML3J.svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshimofficial&label=Profile%20views&color=0e75b6&style=flat" alt="joshimofficial" /> </p>
