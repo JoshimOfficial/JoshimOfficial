@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm @JoshimOfficial
-
+ 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=GitHub+Profile+Dashboard;Live+Stats+%26+Activity;Open+Source+Contributor;Building+Real+World+Projects" />
 
 
