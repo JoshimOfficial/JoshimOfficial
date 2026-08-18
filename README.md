@@ -5,7 +5,7 @@
 **Full-Stack Engineer · Laravel / PHP**  
 Dhaka, Bangladesh · Open to **large projects**, **project-based work**, and **collaboration**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=900&color=111827&center=true&vCenter=true&width=720&lines=Full-Stack+Engineer;Laravel+%C2%B7+PHP+%C2%B7+MySQL+%C2%B7+React;Open+to+large+projects+%26+contributions" alt="Typing headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=900&color=E11D48&center=true&vCenter=true&width=720&lines=Full-Stack+Engineer;Laravel+%C2%B7+PHP+%C2%B7+MySQL+%C2%B7+React;Open+to+large+projects+%26+contributions" alt="Typing headline" />
 
 <br/>
 
