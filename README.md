@@ -100,11 +100,6 @@ Client **software** and **web platforms**.
 
 <div align="center">
 
-Open to **large-scale projects**, **project-based work**, and **collaboration**.
-
-[![Website](https://img.shields.io/badge/josim.dev-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://josim.dev)
-[![GitHub](https://img.shields.io/badge/JoshimOfficial-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoshimOfficial)
-
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=php,laravel,python,kotlin,mysql,js,ts,react,html,css,tailwind,flutter,linux,nginx,git,github" alt="Tech stack" />
