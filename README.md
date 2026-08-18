@@ -98,23 +98,6 @@ Client **software** and **web platforms**.
 **Infrastructure:** Linux · Nginx · Git · Ubuntu VPS · SSL · cPanel  
 **Data workflows:** Data extraction · Web scraping · Task automation
 
----
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JoshimOfficial&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=111827&icon_color=111827&text_color=374151&bg_color=ffffff" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshimOfficial&layout=compact&langs_count=8&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff" alt="Top languages" height="170" />
-
-<img src="https://streak-stats.demolab.com?user=JoshimOfficial&hide_border=true&background=FFFFFF&ring=111827&fire=111827&currStreakNum=111827&sideNums=111827&currStreakLabel=111827&sideLabels=6B7280&dates=9CA3AF&stroke=E5E7EB" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoshimOfficial&bg_color=ffffff&color=111827&line=111827&point=374151&area=true&hide_border=true" alt="Contribution graph" width="100%" />
-
-</div>
-
----
-
 <div align="center">
 
 Open to **large-scale projects**, **project-based work**, and **collaboration**.
