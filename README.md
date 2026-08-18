@@ -92,12 +92,6 @@ Client **software** and **web platforms**.
 
 ## Tech stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,kotlin,mysql,js,ts,react,html,css,tailwind,flutter,linux,nginx,git,github" alt="Tech stack" />
-</div>
-
-<br/>
-
 **Backend:** Laravel · PHP · Python · MySQL · REST APIs · Blade · Automation scripts  
 **Frontend:** React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS  
 **Mobile:** Flutter · Dart · Kotlin  
@@ -107,8 +101,6 @@ Client **software** and **web platforms**.
 ---
 
 ## GitHub
-
-Most production work is **private**. Stats include **private contributions**.
 
 <div align="center">
 
@@ -129,5 +121,9 @@ Open to **large-scale projects**, **project-based work**, and **collaboration**.
 
 [![Website](https://img.shields.io/badge/josim.dev-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://josim.dev)
 [![GitHub](https://img.shields.io/badge/JoshimOfficial-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoshimOfficial)
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,kotlin,mysql,js,ts,react,html,css,tailwind,flutter,linux,nginx,git,github" alt="Tech stack" />
 
 </div>
