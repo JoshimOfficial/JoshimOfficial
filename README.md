@@ -29,54 +29,30 @@ Open to **large projects**, **project-based work**, and **collaboration**.
 
 ## Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### [Pakiza Knit Composite Limited](http://www.pakizaknit.com)
-**ICT Officer (Full-Stack Developer)** · On-site
+**ICT Officer (Full-Stack Developer)** · `On-site`
 
-**Sole engineer** for a **sister-concern** product: **website**, **application**, and **servers**.
-
-</td>
-<td width="50%" valign="top">
+> **Sole engineer** for a **sister-concern** product, handling the **website**, **application**, and **servers**.
 
 ### [Coxsafari](https://coxsafari.com/)
-**Head of Project Development** · Remote
+**Head of Project Development** · `Remote`
 
-Led a **travel** platform: **hotels**, **tours**, and **bookings**.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+> Led a **travel platform** covering **hotels**, **tours**, and **bookings**.
 
 ### [AKPeshop](https://www.akpeshop.com/)
-**Senior Laravel Developer** · Remote
+**Senior Laravel Developer** · `Remote`
 
-**Senior Laravel** on a **multi-vendor marketplace**: **catalog**, **sellers**, **orders**.
-
-</td>
-<td width="50%" valign="top">
+> Worked on a **multi-vendor marketplace** across **catalog**, **sellers**, and **orders**.
 
 ### [Danpite Tech](https://danpitetech.com/)
-**Software Developer** · On-site
+**Software Developer** · `On-site`
 
-Client **software** and **web platforms**.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+> Built **client software** and **web platforms** with the team.
 
 ### [Dr.Tech](https://www.mydrtech.in/)
-**Laravel Developer** · Remote
+**Laravel Developer** · `Remote`
 
-**Laravel** applications for **client** projects.
-
-</td>
-</tr>
-</table>
+> Built **Laravel applications** for **client projects**.
 
 ---
 
