@@ -62,9 +62,7 @@ Open to **large projects**, **project-based work**, and **collaboration**.
 **Merged contributor** · `AI Gateway` · TypeScript / React  
 [![2 PRs Merged](https://img.shields.io/badge/2_PRs-Merged-22c55e?style=flat-square&logo=github)](https://github.com/pulls?q=is%3Apr+author%3AJoshimOfficial+repo%3Adiegosouzapw%2FOmniRoute+is%3Amerged)
 
-> Shipped **production features** to [OmniRoute](https://github.com/diegosouzapw/OmniRoute) — the free MIT AI gateway that routes Claude Code, Cursor, Codex, Copilot & more across **340+ providers** from a single endpoint.
->
-> **What landed (merged):**
+> **What merged:**
 > - **Test before you add** — smoke-test providers inside the combo builder, then add only models that actually respond ([#9011](https://github.com/diegosouzapw/OmniRoute/pull/9011))
 > - **Catalog at speed** — select all / unselect all when browsing models for a combo ([#8526](https://github.com/diegosouzapw/OmniRoute/pull/8526))
 >
