@@ -56,6 +56,15 @@ Open to **large projects**, **project-based work**, and **collaboration**.
 
 ---
 
+## Open source contributions
+
+### [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+**Contributor** · `Open Source`
+
+> Contributed to **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — an MIT AI gateway that routes coding tools across **340+ providers** through one endpoint. Merged work on the combo builder: **select / unselect all** in Browse Catalog ([#8526](https://github.com/diegosouzapw/OmniRoute/pull/8526)), and **in-place provider testing** so builders can add only models that pass smoke checks ([#9011](https://github.com/diegosouzapw/OmniRoute/pull/9011)).
+
+---
+
 ## Focus areas
 
 **E-commerce** — **Marketplaces**, **payments**, and **POS**.  
