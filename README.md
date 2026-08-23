@@ -70,6 +70,8 @@ Open to **large projects**, **project-based work**, and **collaboration**.
 >
 > Result: less guesswork, faster routing setups, and clearer confidence when building provider combos.
 
+---
+
 ## Focus areas
 
 **E-commerce** — **Marketplaces**, **payments**, and **POS**.  
