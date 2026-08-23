@@ -59,11 +59,16 @@ Open to **large projects**, **project-based work**, and **collaboration**.
 ## Open source contributions
 
 ### [OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-**Contributor** · `Open Source`
+**Merged contributor** · `AI Gateway` · TypeScript / React  
+[![2 PRs Merged](https://img.shields.io/badge/2_PRs-Merged-22c55e?style=flat-square&logo=github)](https://github.com/pulls?q=is%3Apr+author%3AJoshimOfficial+repo%3Adiegosouzapw%2FOmniRoute+is%3Amerged)
 
-> Contributed to **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — an MIT AI gateway that routes coding tools across **340+ providers** through one endpoint. Merged work on the combo builder: **select / unselect all** in Browse Catalog ([#8526](https://github.com/diegosouzapw/OmniRoute/pull/8526)), and **in-place provider testing** so builders can add only models that pass smoke checks ([#9011](https://github.com/diegosouzapw/OmniRoute/pull/9011)).
-
----
+> Shipped **production features** to [OmniRoute](https://github.com/diegosouzapw/OmniRoute) — the free MIT AI gateway that routes Claude Code, Cursor, Codex, Copilot & more across **340+ providers** from a single endpoint.
+>
+> **What landed (merged):**
+> - **Test before you add** — smoke-test providers inside the combo builder, then add only models that actually respond ([#9011](https://github.com/diegosouzapw/OmniRoute/pull/9011))
+> - **Catalog at speed** — select all / unselect all when browsing models for a combo ([#8526](https://github.com/diegosouzapw/OmniRoute/pull/8526))
+>
+> Result: less guesswork, faster routing setups, and clearer confidence when building provider combos.
 
 ## Focus areas
 
